@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-painscale-dev-113152-authRole",
+      "UnauthRoleArn": "arn:aws:iam::274376394683:role/amplify-painscale-dev-113152-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::274376394683:role/amplify-painscale-dev-113152-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-painscale-dev-113152-deployment",
+      "UnauthRoleName": "amplify-painscale-dev-113152-unauthRole",
+      "StackName": "amplify-painscale-dev-113152",
+      "StackId": "arn:aws:cloudformation:us-east-2:274376394683:stack/amplify-painscale-dev-113152/06e096b0-d1e5-11eb-aac6-062ba04e78dc",
+      "AmplifyAppId": "d1mywzdua5jjrk"
+    },
+    "categories": {
+      "auth": {
+        "painscaleb9151a67": {},
+        "painscale": {}
+      }
+    }
+  }
+}
